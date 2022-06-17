@@ -46,7 +46,7 @@
 
 AES : 
 
-![](../Downloads/rrss_01.png)
+![AES](./aes.png)
 
 RSA :
-![](../Downloads/how-rsa-works.png)
+![RSA](./rsa.png)
